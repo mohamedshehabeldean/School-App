@@ -1,6 +1,6 @@
 # School App(Flutter) 
 ## using:
- ##### state management(cubit)
+ ##### State Management(cubit)
  #### Hive(database)
  #### Form validation
  #### splash screen
